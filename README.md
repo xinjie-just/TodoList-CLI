@@ -1,4 +1,4 @@
-# study-cli
+# TodoList-CLI
 
 ## Project setup
 ```
